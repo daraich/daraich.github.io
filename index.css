@@ -195,6 +195,11 @@ nav .dropdown:hover .dropdown-content {
   margin: 0 0 10px 0;
 }
 
+#pitch p {
+  text-align: left;
+  text-indent: 50px;
+}
+
 #home>.image-container {
   width: 45%;
 }
@@ -332,7 +337,7 @@ span {
 }
 
 .slideshow {
-  width: 80%;
+  width: 90%;
   margin: auto;
   padding: 20px;
   background-color: rgb(208, 208, 208);
@@ -357,7 +362,7 @@ span {
   color: rgb(88, 100, 136);
 }
 
-.flex-container > video {
+.flex-container > video, .flex-container > img {
   width: 80%;
   margin: auto;
 }

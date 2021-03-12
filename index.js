@@ -32,11 +32,13 @@ function left() {
     }
 
     let current = document.querySelectorAll('.current');
-    let prev = current[1].previousElementSibling;
+    current = Array.from(current);
+    current = current.reverse();
+    let prev = current[0].previousElementSibling;
 
     current.forEach(displayPrev);
 
-    if (current[1].id == 'last') {
+    if (current[0].id == 'last') {
         let button = document.querySelector('#right');
 
         button.style.visibility = 'visible';
@@ -61,11 +63,13 @@ function right() {
     }
 
     let current = document.querySelectorAll('.current');
-    let next = current[1].nextElementSibling;
+    current = Array.from(current);
+    current = current.reverse();
+    let next = current[0].nextElementSibling;
 
     current.forEach(displayNext);
 
-    if (current[1].id == 'first') {
+    if (current[0].id == 'first') {
         let button = document.querySelector('#left');
 
         button.style.visibility = 'visible';
