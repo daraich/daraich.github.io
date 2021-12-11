@@ -1,15 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
-    <meta name="theme-color" content="#000000">
-    <title>Rachel's Site</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+    <title>Midnight Garden</title>
     <link rel="stylesheet" href="index.css">
   </head>
   <body>
-    <div>
-      <h1>Rachel's Site</h1>
+    <iframe width="400" height="30" src="https://www.youtube.com/embed/5qap5aO4i9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <canvas id="c" width="1400px" height="650px"></canvas>
+    <div class="option-select">
+      <div>
+        <h3>Animation</h3>
+        <button id="animate-button">Pause</button>
+      </div>
+      <div>
+        <h3>Camera</h3>
+        <select id="camera-select">
+          <option value="out">Outside View</option>
+          <option value="in">Inside View</option>
+        </select>
+      </div>
     </div>
+    <script type="module" src="index.js"></script>
   </body>
 </html>

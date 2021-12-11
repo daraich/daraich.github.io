@@ -1,0 +1,94 @@
+# Materials for file plants1.obj
+# Created by PlantStudio http://www.kurtz-fernhout.com
+# These files must be in the same directory for the materials to be read correctly.
+newmtl 1Newplan_Intrnd
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_Intrnd
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_Stipule
+Ka  0.1764 0.4901 0.1764
+Kd  0.1764 0.4901 0.1764
+Ks  0.1764 0.4901 0.1764
+d 1.0
+illum 1
+
+newmtl 1Newplan_Stipule
+Ka  0.1764 0.4901 0.1764
+Kd  0.1764 0.4901 0.1764
+Ks  0.1764 0.4901 0.1764
+d 1.0
+illum 1
+
+newmtl 1Newplan_Petiole
+Ka  0.2745 0.2862 0.2117
+Kd  0.2745 0.2862 0.2117
+Ks  0.2745 0.2862 0.2117
+d 1.0
+illum 1
+
+newmtl 1Newplan_Petiole
+Ka  0.2745 0.2862 0.2117
+Kd  0.2745 0.2862 0.2117
+Ks  0.2745 0.2862 0.2117
+d 1.0
+illum 1
+
+newmtl 1Newplan_Leaf
+Ka  0.01176 0.5294 0.01176
+Kd  0.01176 0.5294 0.01176
+Ks  0.01176 0.5294 0.01176
+d 1.0
+illum 1
+
+newmtl 1Newplan_Leaf
+Ka  0.01176 0.5294 0.01176
+Kd  0.01176 0.5294 0.01176
+Ks  0.01176 0.5294 0.01176
+d 1.0
+illum 1
+
+newmtl 1Newplan_1Pdncle
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_1InfInt
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_1InfInt
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_1Pdcel
+Ka  0.196 0.3921 0.196
+Kd  0.196 0.3921 0.196
+Ks  0.196 0.3921 0.196
+d 1.0
+illum 1
+
+newmtl 1Newplan_FruitR
+Ka  0.5019 0.0 0.5019
+Kd  0.5019 0.0 0.5019
+Ks  0.5019 0.0 0.5019
+d 1.0
+illum 1
+
